@@ -1,0 +1,12 @@
+{
+  "sha256": "12a1bc3dbefb0672ee1c06127a1570b1a5f7957c543f296db6680fe3f1f11fd5",
+  "event_hash": "7039ac560c80c68831ba8f45d22361196da633020b72e512ff75d8bc8e745fa5",
+  "meeting_id": "Weekly_Planning_2026_01_17_v2",
+  "timestamp": 1769397990,
+  "submitter": "0xeA038f732Da03aC1385670dA9c3773ECf8465a32",
+  "blockchain_tx": "0x62ca08f996b299a45f5745cc1e3414e45fea42ae4ae07076966ea0c8a81b53ca",
+  "tx_hash": "0x62ca08f996b299a45f5745cc1e3414e45fea42ae4ae07076966ea0c8a81b53ca",
+  "network": "sepolia",
+  "summary_file": "meeting_summary.txt",
+  "file": "output\\meeting_summary.txt"
+}

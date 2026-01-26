@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Rekha Sharma\\OneDrive\\Documents\\cadproj\\transcript-chain\\contracts\\SummaryIntegrityRegistry.sol": {
+      "lastModificationDate": 1768624041072,
+      "contentHash": "0b56bcac91f5440f0ac748384668dcd1",
+      "sourceName": "contracts/SummaryIntegrityRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "SummaryIntegrityRegistry"
+      ]
+    },
+    "C:\\Users\\Rekha Sharma\\OneDrive\\Documents\\cadproj\\transcript-chain\\contracts\\TranscriptRegistry.sol": {
+      "lastModificationDate": 1768426090071,
+      "contentHash": "bc821605152ca584e8dd2d441306318c",
+      "sourceName": "contracts/TranscriptRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "TranscriptRegistry"
+      ]
+    }
+  }
+}
