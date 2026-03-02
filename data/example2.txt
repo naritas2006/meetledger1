@@ -1,0 +1,19 @@
+Daniel: Thanks for joining. We’re at week six of the CRM project. Let’s review progress.
+
+Mark: Backend APIs for customer records and lead management are complete. We’re currently working on automation triggers for follow-up emails.
+
+Priya: The dashboard UI is finalized and integrated. However, we’re facing minor layout issues on tablet screens.
+
+Sarah: The client reviewed the initial demo and requested an additional reporting filter for region-based sales data.
+
+Daniel: Mark, is that feasible within the current timeline?
+
+Mark: Yes, but we’ll need an extra three days for backend adjustments.
+
+Jason: Testing has identified a few validation bugs in the user role permissions. Some users can access restricted sections.
+
+Mark: I’ll prioritize fixing that. Security can’t be compromised.
+
+Priya: Once backend fixes are done, I’ll re-test the UI flows.
+
+Daniel: Good coordination. We’re slightly behind schedule, but manageable. Let’s close pending issues before the next client review.
